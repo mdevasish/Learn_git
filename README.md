@@ -26,3 +26,6 @@ Best score achived on default configuration of LGBM on private test data :: 0.69
 Standing on Public Leaderboard #127
 
 Standing on Private Leaderboard #133
+
+Key Takeaway techniues used:
+1. Categorical encoding based on frequency and target.
