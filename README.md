@@ -1,7 +1,7 @@
 # JantaHack Mobility Analytics
 JantaHack Mobility Analytics
 
-This particulr repo consists of the solution for JantaHack Mobility Analytics
+This particular repo consists of the solution for JantaHack Mobility Analytics
 
 Url :: https://datahack.analyticsvidhya.com/contest/janatahack-mobility-analytics/ 
 
