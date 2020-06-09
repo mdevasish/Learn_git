@@ -1,5 +1,5 @@
-# Learn_git
-Learning github
+# JantaHack Mobility Analytics
+JantaHack Mobility Analytics
 
 This particulr repo consists of the solution for JantaHack Mobility Analytics
 
@@ -21,7 +21,7 @@ Methodologies Used :
 
 Best score achived on default configuration of LGBM on public test data :: 0.701943844492441
 
-Best score achived on default configuration of LGBM on private test data :: 0.701943844492441
+Best score achived on default configuration of LGBM on private test data :: 0.6994697870
 
 Standing on Public Leaderboard #127
 
